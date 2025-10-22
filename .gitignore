@@ -1,0 +1,4 @@
+.DS_Store
+errors/
+.ruby-lsp
+.idea
